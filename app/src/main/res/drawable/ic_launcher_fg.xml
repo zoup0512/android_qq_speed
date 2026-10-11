@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- 速度表指针风格图标 -->
+    <path android:fillColor="#ffd23a"
+        android:pathData="M54,26 A30,30 0 0,1 84,56 L72,56 A18,18 0 0,0 54,38 Z"/>
+    <path android:fillColor="#ff8a00"
+        android:pathData="M54,38 A18,18 0 0,0 36,56 L24,56 A30,30 0 0,1 54,26 Z"/>
+    <path android:fillColor="#27c7ff"
+        android:pathData="M52,44 L64,56 L54,68 L44,60 Z"/>
+</vector>
